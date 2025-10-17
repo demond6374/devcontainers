@@ -8,7 +8,10 @@
 		"ghcr.io/devcontainers-extra/features/akamai-cli:1": {},
 		"ghcr.io/devcontainers-extra/features/ffmpeg-apt-get:1": {},
 		"ghcr.io/devcontainers-extra/features/n8n:1": {},
-		"ghcr.io/devcontainers-extra/features/supabase-cli:1": {}
+		"ghcr.io/devcontainers-extra/features/supabase-cli:1": {},
+		"ghcr.io/devcontainers/features/dotnet:latest": {
+				"version": "latest" // or a specific version like "8.0" or "9.0"
+			}
 	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
