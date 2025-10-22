@@ -1,3 +1,6 @@
 [submodule "oqtane.framework"]
 	path = oqtane.framework
 	url = https://github.com/3zbyjd/oqtane.framework
+[submodule "source/oqtane.framework"]
+	path = source/oqtane.framework
+	url = https://github.com/3zbyjd/oqtane.framework
